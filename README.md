@@ -19,3 +19,5 @@ At SolidState Labs, our mission is to build smart, lean software and hardware co
 
 ### Get in Touch
 We are always excited to collaborate and discuss new opportunities. Feel free to reach out to us!
+
+<sup>handmade in switzerland</sup>
